@@ -1,4 +1,4 @@
-# Naure Inspired Techniques/Strategies in Cybersecurity
+# Nature Inspired Techniques/Strategies in Cyber Security
 Books, Papers, Articles and relevant Code for Nature Inspired Cybersecurity Concepts
 
 
