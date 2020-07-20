@@ -23,6 +23,9 @@ Theory and Practice II by William B. Langdon](https://github.com/Saket-Upadhyay/
 ## Articles
 
 
-## Code
+## Code and Notable Public Repositories
 * [NaturalRuby : Nature Inspired Algorithms in Ruby](https://github.com/Saket-Upadhyay/NaturalRuby)
-   * **Language:** Ruby
+
+* [CleverAlgorithms Book Source Code](https://github.com/clever-algorithms/CleverAlgorithms)
+
+* [Nature-Inspired-Optimization](https://github.com/yuting1214/Nature-Inspired-Optimization)
