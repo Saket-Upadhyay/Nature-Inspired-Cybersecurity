@@ -24,3 +24,5 @@ Theory and Practice II by William B. Langdon](https://github.com/Saket-Upadhyay/
 
 
 ## Code
+* [NaturalRuby : Nature Inspired Algorithms in Ruby](https://github.com/Saket-Upadhyay/NaturalRuby)
+   * **Language:** Ruby
