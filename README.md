@@ -19,21 +19,28 @@ Theory and Practice II by William B. Langdon](https://github.com/Saket-Upadhyay/
 
    
 ## Papers
+* [2020 - Adversarial genetic programming for cyber security: a rising application domain where GP matters](https://github.com/Saket-Upadhyay/Nature-Inspired-Cybersecurity/blob/master/DATA/Papers/Adversarial%20genetic%20programming%20for%20cyber%20security.pdf)
+   * **Keywords:** Genetic programming; Coevolutionary algorithms; Cyber Security.
+
 * [2015 - Spam Detection using Genetic Assisted Artificial Immune System](https://github.com/Saket-Upadhyay/Nature-Inspired-Cybersecurity/blob/master/DATA/Papers/10.1142_S0218001411009123.pdf)
    * **Keywords:** Artificial immune system; genetic algorithm; spam detection.
    
    
 * [2014 - Smartphone Malware Detection Model Based on Artificial Immune System](https://github.com/Saket-Upadhyay/Nature-Inspired-Cybersecurity/blob/master/DATA/Papers/10.1109_cc.2014.7022530.pdf)
    * **Keywords:** artificial immune system; smartphone malware; detection; negative selection; clonal selection.
-   
+      
    
 * [2013 - A New Research on Intrusion Detection Systems based on Artificial Immune](https://github.com/Saket-Upadhyay/Nature-Inspired-Cybersecurity/blob/master/DATA/Papers/10.4028_www.scientific.net_AMM.380-384.2728.pdf)
    * **Keywords:** Intrusion Detection System; Co-Evaluation; Mature Detector.
+      
+   
+* [2003 - Artificial Immune Recognition System (AIRS): An Immune-Inspired Supervised Learning Algorithm](https://github.com/Saket-Upadhyay/Nature-Inspired-Cybersecurity/blob/master/DATA/Papers/AIRS.pdf)
+   * **Keywords:** supervised learning; artificial immune systems; classification; neural networks.
    
    
    
    
-   
+  
    
 ## Articles
 
