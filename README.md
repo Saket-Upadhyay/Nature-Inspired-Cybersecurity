@@ -19,6 +19,13 @@ Theory and Practice II by William B. Langdon](https://github.com/Saket-Upadhyay/
 
    
 ## Papers
+* [2020 - Beyond Herd Immunity Against Strategic Attackers](https://github.com/Saket-Upadhyay/Nature-Inspired-Cybersecurity/blob/master/DATA/Papers/Beyond%20Herd%20Immunity%20Against.pdf)
+   * **Keywords:** Cybersecurity; denial-of-service attacks; network epidemics; network security.
+   
+
+* [2020 - An Immunology-Inspired Network Security Architecture](https://github.com/Saket-Upadhyay/Nature-Inspired-Cybersecurity/blob/master/DATA/Papers/An%20Immunology-Inspired%20Network%20Security.pdf)
+   * **Keywords:** Immunology; Network Security; Situation-awareness; Parallel Adversarial Network.
+
 * [2020 - Adversarial genetic programming for cyber security: a rising application domain where GP matters](https://github.com/Saket-Upadhyay/Nature-Inspired-Cybersecurity/blob/master/DATA/Papers/Adversarial%20genetic%20programming%20for%20cyber%20security.pdf)
    * **Keywords:** Genetic programming; Coevolutionary algorithms; Cyber Security.
 
@@ -37,8 +44,11 @@ Theory and Practice II by William B. Langdon](https://github.com/Saket-Upadhyay/
 * [2003 - Artificial Immune Recognition System (AIRS): An Immune-Inspired Supervised Learning Algorithm](https://github.com/Saket-Upadhyay/Nature-Inspired-Cybersecurity/blob/master/DATA/Papers/AIRS.pdf)
    * **Keywords:** supervised learning; artificial immune systems; classification; neural networks.
    
+* [1970 - An Evaluation of Negative Selection in an Artificial Immune System for Network Intrusion Detection](https://github.com/Saket-Upadhyay/Nature-Inspired-Cybersecurity/blob/master/DATA/Papers/An_Evaluation_of_Negative_Selection_In_A.pdf)
+   * **Keywords:** --
    
-   
+* [1970 - Hints for Adaptive Problem Solving Gleaned from Immune Networks](https://github.com/Saket-Upadhyay/Nature-Inspired-Cybersecurity/blob/master/DATA/Papers/hints-for-adaptive-problem-solving-gleaned-from-immune-networks.pdf)
+   * **Keywords:** --
    
   
    
