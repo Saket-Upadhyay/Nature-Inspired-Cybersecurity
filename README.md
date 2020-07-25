@@ -19,7 +19,22 @@ Theory and Practice II by William B. Langdon](https://github.com/Saket-Upadhyay/
 
    
 ## Papers
-
+* [2015 - Spam Detection using Genetic Assisted Artificial Immune System](https://github.com/Saket-Upadhyay/Nature-Inspired-Cybersecurity/blob/master/DATA/Papers/10.1142_S0218001411009123.pdf)
+   * **Keywords:** Artificial immune system; genetic algorithm; spam detection.
+   
+   
+* [2014 - Smartphone Malware Detection Model Based on Artificial Immune System](https://github.com/Saket-Upadhyay/Nature-Inspired-Cybersecurity/blob/master/DATA/Papers/10.1109_cc.2014.7022530.pdf)
+   * **Keywords:** artificial immune system; smartphone malware; detection; negative selection; clonal selection.
+   
+   
+* [2013 - A New Research on Intrusion Detection Systems based on Artificial Immune](https://github.com/Saket-Upadhyay/Nature-Inspired-Cybersecurity/blob/master/DATA/Papers/10.4028_www.scientific.net_AMM.380-384.2728.pdf)
+   * **Keywords:** Intrusion Detection System; Co-Evaluation; Mature Detector.
+   
+   
+   
+   
+   
+   
 ## Articles
 
 
